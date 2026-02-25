@@ -517,7 +517,6 @@ body {
 /* Small SVG */
 .hover-logo {
   width: 150px;
-  /* 👈 Small size like screenshot */
   height: auto;
   opacity: 0;
   transition: 0.4s ease;
@@ -1325,5 +1324,6 @@ body {
   }
 
 }
+
 
 
