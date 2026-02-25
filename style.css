@@ -516,7 +516,7 @@ body {
 
 /* Small SVG */
 .hover-logo {
-  width: 65px;
+  width: 150px;
   /* 👈 Small size like screenshot */
   height: auto;
   opacity: 0;
@@ -1325,4 +1325,5 @@ body {
   }
 
 }
+
 
