@@ -525,7 +525,7 @@ body {
 /* Hover Effects */
 .project-card:hover .project-image {
   filter: blur(5px);
-  /* 👈 Soft blur */
+
 }
 
 .project-card:hover .hover-layer {
@@ -1324,6 +1324,7 @@ body {
   }
 
 }
+
 
 
 
