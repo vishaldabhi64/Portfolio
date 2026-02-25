@@ -886,8 +886,7 @@ body {
   border-radius: 20px;
   overflow: hidden;
   background: #dcdde1;
-  margin-bottom: 100px;
-
+  margin-bottom: 5px;
   position: sticky;
   top: 100px;
 }
@@ -1324,6 +1323,7 @@ body {
   }
 
 }
+
 
 
 
